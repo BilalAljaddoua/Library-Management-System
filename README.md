@@ -31,4 +31,4 @@ After completing the setup, you can run the application:
 
 bash 
 dotnet run
-The API will be available at http://localhost:5000 by default. You can test the API endpoints using Swagger (if enabled) or any REST client.
+The API will be available at http://localhost:5027/swagger/index.html by default. You can test the API endpoints using Swagger (if enabled) or any REST client.
