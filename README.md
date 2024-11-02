@@ -6,7 +6,7 @@ Requirements
 .NET 6 SDK or later
 SQL Server
 Setup Instructions
-1. #Clone the Repository
+1. Clone the Repository
 bash
  
 git clone https://github.com/BilalAljaddoua/library-management-system.git
