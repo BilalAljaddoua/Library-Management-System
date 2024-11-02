@@ -8,7 +8,7 @@ SQL Server
 Setup Instructions
 1. Clone the Repository
 bash
-نسخ الكود
+ 
 git clone https://github.com/BilalAljaddoua/library-management-system.git
 cd library-management-system
 2. Restore the Database
@@ -22,12 +22,11 @@ Update the connection string to match your SQL Server settings (e.g., UserID, Pa
 Example:
 
 csharp
-نسخ الكود
+ 
 public static string ConnectionString = "Server=your_server;Database=LibraryDB;User Id=your_username;Password=your_password;";
 4. Run the Application
 After completing the setup, you can run the application:
 
-bash
-نسخ الكود
+bash 
 dotnet run
 The API will be available at http://localhost:5000 by default. You can test the API endpoints using Swagger (if enabled) or any REST client.
