@@ -13,7 +13,7 @@ A Library Management System API built with **ASP.NET Core** to manage books, pat
    git clone  https://github.com/BilalAljaddoua/library-management-system.git 
    cd library-management-system
    ```
-2. **Resotre Library.bak into your SqlServer
+2. Resotre Library.bak into your SqlServer
 
-3. **Change the connection string inside class : clsDataSettings inside clsLibraryData Project to fit your SqlServer's settings(UserID,Password)
+3. Change the connection string inside class : clsDataSettings inside clsLibraryData Project to fit your SqlServer's settings(UserID,Password)
  
