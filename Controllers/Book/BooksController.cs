@@ -7,7 +7,7 @@ namespace LibraryManagementSystem.Controllers.Book
 {
     [Route("api/books/")] // Defines the base route for book-related API endpoints
     [ApiController] // Indicates that this class is an API controller
-    public class BookmanagementController : ControllerBase
+    public class BooksController : ControllerBase
     {
         /// <summary>
         /// Gets all books from the library.
